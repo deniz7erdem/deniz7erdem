@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **ExpressJS - Vue**
 
 - 💬 Ask me about **ExpressJS - Vue**
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniz7erdem&show_icons=true&theme=dark&locale=en&layout=compact" alt="deniz7erdem" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniz7erdem&show_icons=true&theme=dark&layout=compact" alt="deniz7erdem" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
