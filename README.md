@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi 👋, I'm Deniz</h1>
 <h3 align="left">Software developer from Türkiye</h3>
-BSc in Computer Engineering Student @ Bursa Technical University <br>
+BSc in Computer Engineering @ Bursa Technical University <br>
 Software Developer @ Renault Group
 
 <h2>Skills</h2>
@@ -12,7 +12,7 @@ Software Developer @ Renault Group
   <li><b>BackEnd</b>: NodeJS (TypeScript,JavaScript), .NET</li>
   <li><b>FrontEnd</b>: Angular, Vue</li>
   <li><b>Database</b>: PostgreSQL, MongoDB, MSSQL, MySQL</li>
-  <li><b>DevOps</b>: Docker, Gitlab CI/CD</li>
+  <li><b>DevOps</b>: Kubernetes, Docker, Gitlab CI/CD, ArgoCD</li>
 </ul>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
